@@ -16,3 +16,23 @@
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+.image-cropper {
+    width: 250px;
+    height: 250px;
+
+    overflow: hidden;
+    border-radius: 50%;
+    border: 2.5px solid rgb(90, 90, 90);
+}
+
+.profile-pic {
+    display: inline;
+
+    margin: 0 auto;
+    margin-right: -10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 92.5%;
+    width: auto;
+}
